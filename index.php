@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./css/style.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Muve!</title>
+    <link rel="manifest" href="./manifest.json">
 </head>
 <body>
     <header>
